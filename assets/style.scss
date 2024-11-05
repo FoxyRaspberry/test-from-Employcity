@@ -224,14 +224,14 @@ body {
 }
 
 @media (max-width: 1600px) {
-    .content {
+    .hero-section__content {
         width: 90%;
         left: 50px;
     }
 }
 
 @media (max-width: 768px) {
-    .content {
+    .hero-section__content {
         width: 90%;
         left: 0;
     }
